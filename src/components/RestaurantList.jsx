@@ -27,7 +27,7 @@ const RestaurantList = () => {
 
   return (
     <div>
-      <h1>Restaurants</h1>
+      <h1>Restaurants List</h1>
 
       <div className="flex flex-wrap">
         {restaurants.map((e, i) => {
